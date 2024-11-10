@@ -24,10 +24,30 @@ Features
 
 
 # <a name="installation"></a> Installation  
-Installation
+
+Follow these steps to set up the project on your local machine:
+
+
+
 ## <a name="installation_for_c#"></a> Installation For C#
 ## <a name="installation_for_js"></a> Installation For JS
 ## <a name="installation_for_py"></a> Installation For PY
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/username/repository-name.git
+   cd repository-name
+
+ 2.  **Set Up a Virtual Environment**
+    python -m venv venv
+
+   source venv/bin/activate    # On macOS/Linux
+   
+   venv\Scripts\activate       # On Windows
+
+ 3.  **Install Dependencies**
+    ```bash
+    pip install -r requirements.txt
+
 To run this project in Python, follow these steps:
 
 Make sure you have Python installed on your computer. You can download it from python.org.
