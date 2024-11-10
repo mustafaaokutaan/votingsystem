@@ -1,4 +1,5 @@
 Table of Contents
+
 Description
 Features
 Installation
@@ -18,9 +19,7 @@ To run this project in Python, follow these steps:
 Make sure you have Python installed on your computer. You can download it from python.org.
 Clone or download the project files from the repository.
 Open a terminal or command prompt and navigate to the folder where the files are located.
-Run the script using:
-bash
-Kodu kopyala
+
 python simple_voting_system.py
 Example Input for Usage
 Here's a sample interaction with the voting system:
