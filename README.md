@@ -4,7 +4,7 @@
 - [Installation](#installation)
   - [Installation For C#](#installation_for_c#)
   - [Installation For JS](#installation_for_js)
-  - [Installation For py](#installation_for_py)
+  - [Installation For PY](#installation_for_py)
 - [Example Input For Usage](#example_input_for_usage)
 - [Contributors](#contributors)
 
@@ -43,10 +43,14 @@ Follow these steps to set up the project on your local machine:
    source venv/bin/activate    # On macOS/Linux
    
    venv\Scripts\activate       # On Windows
+   
 
  3.  **Install Dependencies**
     ```bash
     pip install -r requirements.txt
+
+
+  5.  **Run the Project**  
 
 To run this project in Python, follow these steps:
 
