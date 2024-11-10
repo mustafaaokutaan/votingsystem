@@ -1,10 +1,16 @@
 Table of Contents
 
-Description
-Features
-Installation
+-Description
+
+-Features
+
+-Installation
+
+
 Example Input for Usage
+
 Contributors
+
 Description
 This is a simple console application built to simulate a voting system using Python. The program allows the user to select a candidate, calculates the number of votes for each candidate, and displays the percentage of votes for each candidate after each vote. The aim of the project is to provide a prototype solution to digitalize elections, which could be useful for countries facing challenges in conducting manual elections.
 
