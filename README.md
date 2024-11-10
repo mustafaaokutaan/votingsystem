@@ -2,9 +2,7 @@
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-  - [Installation For C#](#installation_for_c#)
-  - [Installation For JS](#installation_for_js)
-  - [Installation For PY](#installation_for_py)
+- [Installation For PY](#installation_for_py)
 - [Example Input For Usage](#example_input_for_usage)
 - [Contributors](#contributors)
 
