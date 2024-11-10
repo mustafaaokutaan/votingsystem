@@ -15,11 +15,12 @@ Contributors
 # <a name="description"></a> Description #
 This console application is a Python-based prototype designed to simulate a voting system. Users can cast votes for their preferred candidates, and the program keeps track of the total votes for each. After every vote, it calculates and displays the percentage of votes each candidate has received. The goal of this project is to offer a potential digital solution for election processes, which could be particularly beneficial for countries that encounter difficulties with traditional, manual voting methods.
 # <a name="features"></a> Features #
-Features
-- **User Input**: Users can vote for a candidate by entering their choice in the console.
-- **Vote Calculation**: The program keeps track of the total votes for each candidate.
-- **Real-time Percentages**: After each vote, the system displays the percentage of votes received by each candidate.
-- **Console Application**: An easy-to-use, interactive command-line experience.
+**Features**
+
+- **User Input**: Users can easily cast their votes by selecting a candidate through the console.
+- **Vote Calculation**: The system maintains a running tally of the total votes for each candidate.
+- **Real-time Percentages**: The program provides instant feedback, showing the vote percentage for each candidate after every vote.
+- **Console Application**: A simple and interactive experience designed for use in the command-line interface.
 
 
 # <a name="installation"></a> Installation  
