@@ -1,15 +1,32 @@
-SimpleVotingSystem
-This is a simple console application built to simulate a voting system. The program prompts the user to choose a candidate, calculates the number of votes for each candidate, and displays the percentage of votes for each candidate after each vote. The project's goal is to offer a prototype to digitalize elections, which could be a good example for countries that face challenges in maintaining their elections manually.
+Table of Contents
+Description
+Features
+Installation
+Example Input for Usage
+Contributors
+Description
+This is a simple console application built to simulate a voting system using Python. The program allows the user to select a candidate, calculates the number of votes for each candidate, and displays the percentage of votes for each candidate after each vote. The aim of the project is to provide a prototype solution to digitalize elections, which could be useful for countries facing challenges in conducting manual elections.
 
 Features
-User Input: Users can select a candidate by entering a choice in the console.
-Vote Calculation: The application tracks the number of votes for each candidate.
-Real-time Percentages: After each vote, the program calculates and displays the percentage of votes each candidate has received.
-Console Application: A simple, interactive command-line interface for a quick and easy experience.
-Installation for Python
-To run the Python version of this project, make sure Python is installed on your system. You can use any code editor or run the script in the terminal. Simply copy the Python code into a file named simple_voting_system.py and execute it using the command python simple_voting_system.py.
+User Input: Users can vote for a candidate by entering their choice in the console.
+Vote Calculation: The program keeps track of the total votes for each candidate.
+Real-time Percentages: After each vote, the system displays the percentage of votes received by each candidate.
+Console Application: An easy-to-use, interactive command-line experience.
+Installation
+To run this project in Python, follow these steps:
 
-Example for Python Version:
+Make sure you have Python installed on your computer. You can download it from python.org.
+Clone or download the project files from the repository.
+Open a terminal or command prompt and navigate to the folder where the files are located.
+Run the script using:
+bash
+Kodu kopyala
+python simple_voting_system.py
+Example Input for Usage
+Here's a sample interaction with the voting system:
+
+plaintext
+Kodu kopyala
 Welcome to the Voting System!
 
 1. Candidate A
