@@ -76,7 +76,7 @@ Open a terminal or command prompt and navigate to the folder where the files are
 Here's a sample interaction with the voting system:
 
 
-Welcome to the Voting System!
+Welcome to the Bosnia Voting System!
 
 1. Candidate Bakir Izzetbegovic
 2. Candidate Denis Becirovic
