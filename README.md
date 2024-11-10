@@ -88,7 +88,8 @@ Thank you for voting! Here are the results:
 Candidate A: 0.00%
 Candidate B: 100.00%
 
-## <a name="contributors"></a> Contributors ##
+```
+# <a name="contributors"></a> Contributors #
 - **For C# Version**: https://github.com/OguzBirsen298
 - **For JS Version**: https://github.com/huseyinCode
 - **For PY Version**: https://github.com/mustafaaokutaan
